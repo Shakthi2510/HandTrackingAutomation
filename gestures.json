@@ -1,0 +1,13 @@
+{
+    "M": "music",
+    "C": "chrome",
+    ">": "volume_up",
+    "<": "volume_down",
+    "O": "desktop",
+    "L": "delete",
+    "2": "rename",
+    "S": "screenshot",
+    "T": "notepad",
+    "X": "lock_screen",
+    "U": "undo"
+}
