@@ -64,4 +64,4 @@ Pull requests are welcome! Feel free to improve gesture recognition or add new f
 This project is licensed under the **MIT License**.
 
 ---
-🔗 **GitHub Repository:** [Your Repo Link](https://github.com/Shakthi2510/HandTrackingAutomation
+🔗 **GitHub Repository:** [Your Repo Link](https://github.com/Shakthi2510/HandTrackingAutomation)
