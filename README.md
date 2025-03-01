@@ -1,4 +1,3 @@
-# HandTrackingAutomation
 # Hand Gesture Control
 
 A Python-based **Hand Gesture Recognition System** using **OpenCV, MediaPipe, and PyAutoGUI** to control system actions like opening Chrome, adjusting volume, taking screenshots, and more—just by drawing gestures in the air!
@@ -16,7 +15,7 @@ A Python-based **Hand Gesture Recognition System** using **OpenCV, MediaPipe, an
 Ensure you have **Python 3.7+** installed. Then install dependencies:
 
 ```sh
-pip install opencv-python mediapipe pyautogui numpy
+pip install -r requirements.txt
 ```
 
 ## Usage
@@ -48,6 +47,16 @@ You can modify gestures in `gestures.json` to customize actions.
 - **Gesture path** is recorded and analyzed.
 - **Recognized gestures** trigger system actions using PyAutoGUI.
 
+## Requirements
+The required dependencies are listed in `requirements.txt`:
+
+```
+opencv-python
+mediapipe
+pyautogui
+numpy
+```
+
 ## Contributing
 Pull requests are welcome! Feel free to improve gesture recognition or add new features.
 
@@ -55,5 +64,4 @@ Pull requests are welcome! Feel free to improve gesture recognition or add new f
 This project is licensed under the **MIT License**.
 
 ---
-🔗 **GitHub Repository:** [Your Repo Link]
-
+🔗 **GitHub Repository:** [Your Repo Link](https://github.com/Shakthi2510/HandTrackingAutomation
